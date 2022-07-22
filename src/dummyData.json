@@ -1,0 +1,16 @@
+{
+    "testimonials": [
+        {
+            "reviewerName": "John Doe",
+            "about": "made up person",
+            "imgSrc": "https://thispersondoesnotexist.com/image?val=1",
+            "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis corporis quidem doloremque sit aperiam incidunt unde nesciunt modi id, quos quod delectus dolor obcaecati iusto excepturi totam accusantium ipsum reprehenderit ad quia laudantium. Eius eligendi deleniti, recusandae aspernatur consectetur veritatis natus porro pariatur iusto dolor voluptatem veniam quas blanditiis corporis?"
+        },
+        {
+            "reviewerName": "Peter Not John",
+            "about": "made up person",
+            "imgSrc": "https://thispersondoesnotexist.com/image?val=2",
+            "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis corporis quidem doloremque sit aperiam incidunt unde nesciunt modi id, quos quod delectus dolor obcaecati iusto excepturi totam accusantium ipsum reprehenderit ad quia laudantium. Eius eligendi deleniti, recusandae aspernatur consectetur veritatis natus porro pariatur iusto dolor voluptatem veniam quas blanditiis corporis?"
+        }
+    ]
+}

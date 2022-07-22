@@ -13,3 +13,7 @@
   font-family: 'Inter';
   transition: .3s ease;
 }
+
+body{
+  background-color: #F2F0EC;
+}

@@ -26,7 +26,7 @@ function buildClass({rounded, outlined, filled, background, color}: Partial<Butt
     rounded && (styles +=' rounded');
     outlined && (styles += ' text-'+color+' bg-'+background+' border border-'+color+' hover:bg-'+color);
     filled && (styles += ' scale-150');
-    console.log(styles)
+    // console.log(styles)
     return styles.toString();
 
 }
